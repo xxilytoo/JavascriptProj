@@ -1,2 +1,2 @@
 # JavascriptProj
-Javascript Projects from CSP
+Hi! These are some of my projects from AP Computer Science Principles.
